@@ -62,7 +62,7 @@ The "spacegame_hand" folder contains the code for this version.
 ### Setup Steps
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/SzekelyK05/Desktop-buddy.git)
+   git clone (https://github.com/SzekelyK05/Esp32-Space-Game.git)
 
 (Or download the repository as a ZIP file and extract it).
 2. Open the sketch: Open the src/main.ino file in the Arduino IDE.
