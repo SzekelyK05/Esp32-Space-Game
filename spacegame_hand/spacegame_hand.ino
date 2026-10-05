@@ -95,7 +95,7 @@ void handleMenu()
       display.setTextSize(1);
       display.setTextColor(SSD1306_WHITE);
       display.setCursor(10, 25);
-      display.print("Press any button");
+      display.print("Hover your hand!");
       display.setTextSize(1);
       display.setCursor(20, 45);
       display.print("High score: ");
