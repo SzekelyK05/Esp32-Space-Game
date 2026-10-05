@@ -49,7 +49,7 @@ Background stars made by randomly spawning pixels on the screen.
 
 ## Hand input mode
 Insted of buttons, the spaceship can be controlled using your hand.
-This can be done by orienting the ultrasonic sensor to point up and placing your hand above it.
+This can be done by orienting the ultrasonic sensor to point up and placing your hand above it. Range: 10cm - 30cm.
 Note: The hand input version uses an earlier version of the code (that only has one type of enemy instead of 2). This ensures more approachable gameplay.
 The "spacegame_hand" folder contains the code for this version.
 
