@@ -1,6 +1,5 @@
 # Esp32-Space-Game
 
-
 ## Bill of Materials
 The project needs an esp32 (ESP32-WROOM-32), 0.96 inch oled display,  HW-508 passive buzzer, 2 tactile switch buttons, breadboard and jumper wires.
 For the hand input mode, a HC-SR04 ultrasonic sensor.
@@ -50,7 +49,7 @@ Background stars made by randomly spawning pixels on the screen.
 
 ## Hand input mode
 Insted of buttons, the spaceship can be controlled using your hand.
-This can be done by adjusting the ultrasonic sensor to point up and placing your hand above it.
+This can be done by orienting the ultrasonic sensor to point up and placing your hand above it.
 The "spacegame_hand" folder contains the code for this version.
 
 ## Installation
