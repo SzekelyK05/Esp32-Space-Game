@@ -2,7 +2,7 @@
 
 ## Bill of Materials
 The project needs an esp32 (ESP32-WROOM-32), 0.96 inch oled display,  HW-508 passive buzzer, 2 tactile switch buttons, breadboard and jumper wires.
-For the hand input mode, a HC-SR04 ultrasonic sensor.
+For the hand input mode, a HC-SR04 ultrasonic sensor*.
 No soldering needed.
 
 
@@ -28,6 +28,8 @@ Ultrasonic sensor:  Vcc -> VIN
                     Trig -> Pin 18
                     Echo -> Pin 19
                     Gnd -> Gnd
+
+*Voltage divider needed for standard HC-SR04 ultrasonic sensor! 1k ohm resistor from Echo to Pin 19; 2k ohm resistor from Pin 19 to Gnd
 
 
 ## Dependencies
